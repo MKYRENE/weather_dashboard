@@ -28,7 +28,7 @@ To run the Weather Dashboard locally, follow these steps:
 
 ## Demo
 
-A live demo of the Weather Dashboard can be found at [Demo Link]().
+A live demo of the Weather Dashboard can be found at [Demo Link](https://mkyrene.github.io/weather_dashboard/).
 
 ## Screenshots
 
