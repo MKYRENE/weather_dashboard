@@ -1,0 +1,59 @@
+/* BODY STYLING */
+body {
+    font-family: Arial, sans-serif;
+    }
+    /* HEADER */
+    header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    }
+    
+    header h1 {
+    margin: 0;
+    }
+    /* MAIN STYLING */
+    main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    }
+    /* FORM STYLING */
+    form {
+    margin-bottom: 20px;
+    }
+    
+    form input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    }
+    
+    form button {
+    padding: 5px 10px;
+    }
+    /* ID SELECTORS  */
+    #search-history {
+    margin-bottom: 20px;
+    }
+    
+    #search-history ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    #search-history li {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    }
+    
+    #current-weather {
+    margin-bottom: 20px;
+    }
+    
+    #forecast {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    }
